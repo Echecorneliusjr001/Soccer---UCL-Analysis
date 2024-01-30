@@ -43,20 +43,14 @@ Perform data preprocessing, which may involve data describing, the number of dup
   ---
        
     
-## To find the values of the aggregate functions
+**To find the values of the aggregate functions in two decimal places
 df15.describe().round(2)
 
 output result:
 
-	Goals
-count	186.00
-mean	20.11
-std	16.44
-min	10.00
-25%	11.00
-50%	15.00
-75%	21.00
-max	140.00
+Goals
+count-186.00, mean-20.11, std-16.44, min-10.00, 25%-11.00, 50%-15.00, 75%-21.00, max-140.00
+
 
   ---
   
