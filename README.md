@@ -59,7 +59,7 @@ count-186.00, mean-20.11, std-16.44, min-10.00, 25%-11.00, 50%-15.00, 75%-21.00,
   Here's an exploratory data analysis with some questions to answer, the analysis includes the following key aspects:
 
 - Identify the player with the highest number of goals.
-- Identify the player with the highest number of appearances in a season and the history of the Champions League.
+- Identify the player with the highest number of appearances in a season and in the history of the Champions League.
 - Identify the top 10 Coaches with the highest number of appearances.
 - Explore the countries with the highest number of titles in the history of the Champions League.
 - Identify the top 10 players by most goals.
