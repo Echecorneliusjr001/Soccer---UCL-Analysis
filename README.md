@@ -260,5 +260,7 @@ In conclusion, the UEFA Champions League has the potential to evolve into a beac
 
 ### References
   Seaborn Cheatography by Sanjeev95.
+  
   AlextheAnalyst.
+  
   Champions League dataset (Website).
